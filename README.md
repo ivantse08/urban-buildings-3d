@@ -81,6 +81,10 @@ A web-based 3D visualization tool for exploring building data, including interac
 - Hosted on:  
   **[https://masiv-urban-3d.vercel.app](https://masiv-urban-3d.vercel.app)**
 
+- Example Pictures:
+  <img width="1919" height="870" alt="image" src="https://github.com/user-attachments/assets/02aa6b8c-2a71-4625-afe0-c7f12f55b587" />
+
+
 > ⚠️ **Note**: Not all building footprints had a matching metadata entry in the supplementary dataset due to slight differences in geometry or missing overlap.  
 > To ensure completeness of the 3D scene, all valid building footprints are included.  
 > If metadata was missing, default fallback values like `"Unknown"` or `-1` are used for those fields.  
