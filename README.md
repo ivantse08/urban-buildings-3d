@@ -6,7 +6,7 @@ A web-based 3D visualization tool for exploring building data, including interac
 
 ## 🚀 Live Demo
 
-- **Frontend (React/Vercel)**: [https://masiv-urban-3d.vercel.app](https://masiv-urban-3d.vercel.app)
+- **Frontend (React/Vercel)**: [https://masiv-urban-3d.vercel.app](https://masiv-urban-3d.vercel.app) (Please note if opening for the first time buildings will take 1 minute to load as backend goes to sleep if not run often)
 - **Backend (Flask/Render)**: [https://masiv-urban-3d.onrender.com](https://masiv-urban-3d.onrender.com)
  Note: Backend is API-only and does **not serve any visual content**—just JSON responses consumed by the frontend.
 ---
